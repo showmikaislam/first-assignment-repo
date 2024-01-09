@@ -92,9 +92,9 @@ background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     margin-left:220px ;
     margin-top: 40px;
     border-radius: 2% 0%;
-    /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);  */
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); 
     display: flex;
-    /* filter: brightness(50%); */
+    filter: brightness(50%);
 }
 
 #welcome{
@@ -265,7 +265,6 @@ background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     background-repeat: no-repeat;
     background-position: bottom;
     width: 800px;
-    border: 2px solid ;
     text-align: center;
     width: 800px;
     height: 800px;
